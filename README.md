@@ -1,5 +1,5 @@
 # edX
-Main Repository for edX Courses
+Main Repository for edX Courses.
 
 ## Courses TODO
 
